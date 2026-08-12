@@ -9,9 +9,6 @@ The complete workflow includes data cleaning in Excel, data storage
 and analysis using MySQL, and interactive dashboard development
 using Power BI.
 
-## Dashboard Preview
-
-![E-Commerce Sales Analytics Dashboard](dashboard/dashboard_screenshot.png)
 
 ## Tools Used
 - Microsoft Excel
