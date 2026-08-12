@@ -1,0 +1,151 @@
+﻿product_id,product_name,category,sub_category,price,Price_Status,cost,Cost_Status
+P001,Wireless Mouse Pro,Electronics,Audio,4021.24,Valid,2062.95,Valid
+P002,Shoe Rack Plus,Furniture,Chairs,3404.58,Valid,2254.8,Valid
+P003,Bookshelf Classic,Furniture,Bedroom,12488.38,Valid,8246,Valid
+P004,Hair Serum Pro,Beauty,Hair Care,10916.96,Valid,6221.96,Valid
+P005,Bedside Table 2026,Furniture,Chairs,5903.84,Valid,2881.07,Valid
+P006,Denim Jeans Plus,Fashion,Bags,2824.85,Valid,2162.6,Valid
+P007,Shampoo Plus,Beauty,Skin Care,7336.17,Valid,3635.92,Valid
+P008,Lip Balm 2026,Beauty,Skin Care,5680.59,Valid,2642.63,Valid
+P009,Perfume,Beauty,Fragrance,0,Invalid,6933.76,Valid
+P010,Lip Balm Pro,Beauty,Skin Care,3965.87,Valid,2847.7,Valid
+P011,Earbuds Premium,Electronics,Smart Devices,2996.51,Valid,2092.17,Valid
+P012,Wireless Mouse 2026,Electronics,Accessories,9886.28,Valid,6828.64,Valid
+P013,Wall Clock Plus,Home & Kitchen,Appliances,2489.72,Valid,1688.16,Valid
+P014,Bottle Lite,Home & Kitchen,Storage,9254.83,Valid,7377.3,Valid
+P015,Wardrobe,Furniture,Tables,2844.05,Valid,1836.35,Valid
+P016,Shoe Rack Lite,Furniture,Storage Furniture,11657.08,Valid,6870.05,Valid
+P017,Handbag,Fashion,Footwear,11789.02,Valid,9221.79,Valid
+P018,Earbuds Lite,Electronics,Audio,12051.64,Valid,8013.24,Valid
+P019,Skipping Rope 2026,Sports,Fitness,14474.64,Valid,6540.39,Valid
+P020,Webcam 2026,Electronics,Audio,1503.48,Valid,815.01,Valid
+P021,Mixer Grinder 2026,Home & Kitchen,Cookware,13973.14,Valid,8247.31,Valid
+P022,Yoga Mat Pro,Sports,Sportswear,9675.31,Valid,5840.41,Valid
+P023,Handbag Basic,Fashion,Women'S Wear,11801.6,Valid,7419.57,Valid
+P024,Skipping Rope Basic,Sports,Outdoor,5523.15,Valid,3751.64,Valid
+P025,Sneakers 2026,Fashion,Footwear,5425.29,Valid,3191.7,Valid
+P026,Face Wash Plus,Beauty,Hair Care,13802.83,Valid,8866.35,Valid
+P027,Water Bottle Premium,Sports,Sportswear,3548.17,Valid,2792.66,Valid
+P028,Office Chair Premium,Furniture,Bedroom,2789.51,Valid,1749.53,Valid
+P029,Hair Serum Lite,Beauty,Skin Care,14214.83,Valid,10391.46,Valid
+P030,Lamp 2026,Home & Kitchen,Storage,8533.9,Valid,6140.04,Valid
+P031,Lamp Basic,Home & Kitchen,Appliances,7332.16,Valid,3961.1,Valid
+P032,Bedside Table Lite,Furniture,Tables,6302.9,Valid,3615.24,Valid
+P033,Hair Serum Classic,Beauty,Skin Care,4450.89,Valid,2624.36,Valid
+P034,Dumbbell Set Pro,Sports,Sportswear,7252.02,Valid,4160.76,Valid
+P035,Body Lotion Classic,Beauty,Personal Care,7584.19,Valid,3942.89,Valid
+P036,Gym Gloves Classic,Sports,Outdoor,,Missing,2665.55,Valid
+P037,Body Lotion Plus,Beauty,Personal Care,1973.2,Valid,942.15,Valid
+P038,Yoga Mat Basic,Sports,Accessories,12749.56,Valid,7393.71,Valid
+P039,Electric Kettle,Home & Kitchen,Appliances,2905.5,Valid,2084.67,Valid
+P040,Lip Balm Classic,Beauty,Personal Care,11301.51,Valid,5592.96,Valid
+P041,Conditioner Basic,Beauty,Fragrance,7635.63,Valid,4488.23,Valid
+P042,Track Pants Plus,Sports,Outdoor,0,Invalid,6435.94,Valid
+P043,Yoga Mat Classic,Sports,Fitness,5814.53,Valid,2821.57,Valid
+P044,Storage Box Premium,Home & Kitchen,Storage,3708.66,Valid,2280.72,Valid
+P045,Sunscreen Pro,Beauty,Personal Care,7580.8,Valid,3969.96,Valid
+P046,Water Bottle 2026,Sports,Sportswear,4337.52,Valid,2224.98,Valid
+P047,Casual Shirt Premium,Fashion,Men'S Wear,12099.5,Valid,7796.54,Valid
+P048,Bookshelf Pro,Furniture,Tables,,Missing,3264.19,Valid
+P049,Bookshelf Lite,Furniture,Bedroom,11821.93,Valid,6561.31,Valid
+P050,Lip Balm Plus,Beauty,Skin Care,-99,Invalid,4907.5,Valid
+P051,Frying Pan,Home & Kitchen,Appliances,11218.98,Valid,6068.56,Valid
+P052,Wall Clock Basic,Home & Kitchen,Storage,6293.06,Valid,3605.18,Valid
+P053,Skipping Rope Premium,Sports,Outdoor,5454.61,Valid,3739.78,Valid
+P054,Study Table 2026,Furniture,Bedroom,9281.22,Valid,5683.01,Valid
+P055,Kurta 2026,Fashion,Men'S Wear,9541.85,Valid,6202.9,Valid
+P056,Smart Watch Lite,Electronics,Accessories,3576.63,Valid,2006.16,Valid
+P057,Bottle Premium,Home & Kitchen,Storage,13336.84,Valid,9647.08,Valid
+P058,Bottle Pro,Home & Kitchen,Appliances,-99,Invalid,1337.85,Valid
+P059,Gym Gloves Plus,Sports,Outdoor,3315.46,Valid,1952.69,Valid
+P060,Webcam Basic,Electronics,Accessories,589.2,Valid,347.01,Valid
+P061,Keyboard Pro,Electronics,Accessories,1446.81,Valid,1122.81,Valid
+P062,Bedside Table Classic,Furniture,Storage Furniture,11115.38,Valid,6725.98,Valid
+P063,Denim Jeans Basic,Fashion,Men'S Wear,719.29,Valid,413.52,Valid
+P064,Lamp Premium,Home & Kitchen,Appliances,8317.47,Valid,4136.2,Valid
+P065,Track Pants 2026,Sports,Outdoor,7946.21,Valid,5354.43,Valid
+P066,Lamp Classic,Home & Kitchen,Storage,12108.67,Valid,7321.52,Valid
+P067,Electric Kettle Pro,Home & Kitchen,Appliances,4691.88,Valid,2111.5,Valid
+P068,Sneakers,Fashion,Women'S Wear,8118.46,Valid,5607.58,Valid
+P069,Shoe Rack Basic,Furniture,Bedroom,11533.86,Valid,8411.5,Valid
+P070,Face Wash Lite,Beauty,Hair Care,2989.85,Valid,2268.57,Valid
+P071,Bedside Table Pro,Furniture,Bedroom,10780.08,Valid,7288.38,Valid
+P072,Shoe Rack Plus,Furniture,Tables,6448.14,Valid,3442.32,Valid
+P073,Hair Serum Premium,Beauty,Personal Care,6309.98,Valid,4724.4,Valid
+P074,Sneakers Plus,Fashion,Men'S Wear,9625.01,Valid,6412.23,Valid
+P075,Bedsheet Lite,Home & Kitchen,Appliances,486.05,Valid,227.17,Valid
+P076,Body Lotion Plus,Beauty,Skin Care,4374.3,Valid,2159.87,Valid
+P077,Bedside Table Plus,Furniture,Chairs,2429.12,Valid,1512.74,Valid
+P078,Electric Kettle,Home & Kitchen,Appliances,14968.86,Valid,9165.28,Valid
+P079,Bluetooth Speaker Pro,Electronics,Smart Devices,1028.37,Valid,741.95,Valid
+P080,Smart Watch Classic,Electronics,Computer Peripherals,13455.34,Valid,7232.62,Valid
+P081,Study Table Classic,Furniture,Chairs,5894.01,Valid,4663.58,Valid
+P082,Handbag,Fashion,Footwear,11081.78,Valid,5351.24,Valid
+P083,Track Pants 2026,Sports,Outdoor,10284.35,Valid,5751.4,Valid
+P084,Mixer Grinder Plus,Home & Kitchen,Home Decor,3948.03,Valid,2658.93,Valid
+P085,Running Shoes Classic,Fashion,Women'S Wear,14603.46,Valid,7777.63,Valid
+P086,Office Chair Pro,Furniture,Storage Furniture,11955.98,Valid,7826.91,Valid
+P087,Office Chair Basic,Furniture,Tables,8798.94,Valid,6086.78,Valid
+P088,Water Bottle Plus,Sports,Outdoor,3880.09,Valid,2424.95,Valid
+P089,Yoga Mat Basic,Sports,Sportswear,5460.66,Valid,2751.47,Valid
+P090,Body Lotion,Beauty,Skin Care,3642.58,Valid,2890.7,Valid
+P091,Track Pants Classic,Sports,Sportswear,515.02,Valid,299.85,Valid
+P092,Gym Gloves Basic,Sports,Outdoor,7381.47,Valid,4451.95,Valid
+P093,Bedsheet Pro,Home & Kitchen,Appliances,8244.58,Valid,4644.08,Valid
+P094,Bookshelf Plus,Furniture,Storage Furniture,8059.83,Valid,4894.61,Valid
+P095,Lamp Basic,Home & Kitchen,Storage,11682.59,Valid,7325.98,Valid
+P096,Yoga Mat Lite,Sports,Outdoor,,Missing,6234.32,Valid
+P097,Resistance Band Classic,Sports,Fitness,7955.23,Valid,4965.19,Valid
+P098,Hair Serum Lite,Beauty,Hair Care,6264.11,Valid,3524.87,Valid
+P099,Wireless Mouse Pro,Electronics,Accessories,2842.85,Valid,1310.4,Valid
+P100,USB Hub Plus,Electronics,Computer Peripherals,,Missing,451.92,Valid
+P101,Shoe Rack Basic,Furniture,Bedroom,5621.04,Valid,3721.6,Valid
+P102,USB Hub,Electronics,Accessories,13939.38,Valid,10332.25,Valid
+P103,Coffee Table 2026,Furniture,Chairs,12364.99,Valid,9001.56,Valid
+P104,Wireless Mouse Plus,Electronics,Smart Devices,12548.96,Valid,5989.33,Valid
+P105,Casual Shirt Classic,Fashion,Footwear,8067.58,Valid,4165.38,Valid
+P106,Body Lotion 2026,Beauty,Hair Care,11241.4,Valid,8073.56,Valid
+P107,Conditioner 2026,Beauty,Personal Care,13264.8,Valid,6743.6,Valid
+P108,Kurta Pro,Fashion,Bags,8100.73,Valid,5346.24,Valid
+P109,Wall Clock Lite,Home & Kitchen,Storage,6301.68,Valid,4232.42,Valid
+P110,Football Classic,Sports,Sportswear,5749.93,Valid,3694.81,Valid
+P111,Water Bottle,Sports,Sportswear,6822,Valid,4018.03,Valid
+P112,Gym Gloves Basic,Sports,Fitness,7859.62,Valid,6269.57,Valid
+P113,Electric Kettle Classic,Home & Kitchen,Cookware,3378.38,Valid,1892.62,Valid
+P114,Skipping Rope Plus,Sports,Sportswear,757.5,Valid,435.17,Valid
+P115,Kurta Classic,Fashion,Women'S Wear,3647.31,Valid,2676.67,Valid
+P116,USB Hub Plus,Electronics,Computer Peripherals,10907.99,Valid,7935.74,Valid
+P117,Casual Shirt Premium,Fashion,Bags,752.1,Valid,551.23,Valid
+P118,Office Chair Lite,Furniture,Chairs,5348.37,Valid,3936.4,Valid
+P119,Bedside Table Basic,Furniture,Chairs,9580.53,Valid,6431.1,Valid
+P120,Wireless Mouse Lite,Electronics,Smart Devices,8189.96,Valid,4114.25,Valid
+P121,Body Lotion Basic,Beauty,Hair Care,10168.8,Valid,8125.67,Valid
+P122,Bedside Table 2026,Furniture,Chairs,,Missing,2638.88,Valid
+P123,Casual Shirt,Fashion,Women'S Wear,8656.32,Valid,4044.74,Valid
+P124,Study Table 2026,Furniture,Storage Furniture,7625.98,Valid,5497.1,Valid
+P125,Backpack Classic,Fashion,Men'S Wear,7419.34,Valid,5032.44,Valid
+P126,Handbag Plus,Fashion,Men'S Wear,,Missing,2485.93,Valid
+P127,Dumbbell Set 2026,Sports,Fitness,6467.4,Valid,3698.76,Valid
+P128,Mixer Grinder Premium,Home & Kitchen,Storage,2703.98,Valid,1547.76,Valid
+P129,Stool Basic,Furniture,Tables,13877.36,Valid,7378.89,Valid
+P130,Skipping Rope Plus,Sports,Sportswear,1862.1,Valid,873.49,Valid
+P131,Hair Serum Basic,Beauty,Hair Care,5279.42,Valid,3861.89,Valid
+P132,Lamp Basic,Home & Kitchen,Appliances,5110.78,Valid,3623.57,Valid
+P133,Sneakers,Fashion,Men'S Wear,9420.02,Valid,7510.64,Valid
+P134,Resistance Band Basic,Sports,Fitness,3979.75,Valid,1874.62,Valid
+P135,Running Shoes,Fashion,Women'S Wear,9889.42,Valid,4479.09,Valid
+P136,Coffee Table Plus,Furniture,Storage Furniture,481.36,Valid,362.75,Valid
+P137,Football 2026,Sports,Accessories,7725.4,Valid,5395.35,Valid
+P138,Frying Pan Pro,Home & Kitchen,Appliances,3142.35,Valid,2477.36,Valid
+P139,Face Wash Classic,Beauty,Skin Care,13848.6,Valid,7709.86,Valid
+P140,Bookshelf Basic,Furniture,Bedroom,5331.34,Valid,3055.76,Valid
+P141,Football Premium,Sports,Sportswear,12215.01,Valid,8172.18,Valid
+P142,Shoe Rack Classic,Furniture,Chairs,2444.28,Valid,1867.46,Valid
+P143,Dumbbell Set 2026,Sports,Outdoor,7905.62,Valid,5433.52,Valid
+P144,Resistance Band Classic,Sports,Outdoor,8677.9,Valid,5200.34,Valid
+P145,Lamp Pro,Home & Kitchen,Storage,3259.01,Valid,1624.62,Valid
+P146,Body Lotion Premium,Beauty,Hair Care,10389.27,Valid,7942.86,Valid
+P147,Denim Jeans Pro,Fashion,Bags,4897.94,Valid,3159.51,Valid
+P148,Skipping Rope Lite,Sports,Fitness,12623.93,Valid,6323.74,Valid
+P149,Earbuds 2026,Electronics,Smart Devices,4688.55,Valid,3333.39,Valid
+P150,Skipping Rope Classic,Sports,Sportswear,1779.22,Valid,915.7,Valid
